@@ -1,0 +1,6 @@
+{
+  "name": "Fisika 3D: Gelombang, Gaya & Energi",
+  "description": "Laboratorium Fisika Interaktif 3D: Eksplorasi gelombang cahaya, akustik bunyi, medan magnet, gaya gesek, dan pembangkit listrik energi terbarukan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
